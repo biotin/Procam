@@ -1,6 +1,6 @@
 PROCAM Score on Ruby. 
 
-The PROCAM Risk Scores - Two scores for estimating the 10-year risk of developing a coronary event based on the latest and most comprehensive analysis of PROCAM are available. These are the PROCAM Health Check.
+The PROCAM Risk Scores - Score for estimating the 10-year risk of developing a coronary event based on the latest and most comprehensive analysis of PROCAM are available. These is the PROCAM Health Check.
 
 PROCAM Health Check
 The PROCAM Health Check is a more detailed score based on 462 coronary events ocurring among 18,460 men and 49 events occurring among 8,518 women aged 20-78 years at study entry and followed for an average of 11.7 years.
